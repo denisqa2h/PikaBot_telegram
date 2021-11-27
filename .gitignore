@@ -1,0 +1,14 @@
+settings.py
+archive
+chromedriver.exe
+env
+test.py
+index_selenium.html
+bot.txt
+bot.log
+.vscode
+.vscode/
+mongo.py
+
+
+__pycache__
