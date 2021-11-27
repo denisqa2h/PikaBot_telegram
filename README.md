@@ -17,7 +17,7 @@ Pikabot - это телеграм-бот для получения необхо�
 Выполните в консоли:
 ```
 git clone https://github.com/denisqa2h/PikaBot_telegram.git
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
  
 ### Настройка
